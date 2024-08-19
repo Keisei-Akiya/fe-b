@@ -8,5 +8,5 @@ class Key:
         # Initialize the left attribute with None(undefined value)
         self.left = None
 
-ki = Key("A")
+k1 = Key("A")
 print(k1)
