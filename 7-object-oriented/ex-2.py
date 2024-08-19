@@ -9,4 +9,7 @@ class Key:
         self.left = None
 
 k1 = Key("A")
-print(k1)
+
+print(k1.char) # A
+
+print(isinstance(k1, Key)) # True
