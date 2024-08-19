@@ -17,5 +17,10 @@ def remainder(val, quo):
         
     return ret
 
+options = ["a", "i", "u", "e"]
+
+for option in options:
+    
+
 ret = remainder(5, 3)
 print(ret)
