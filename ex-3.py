@@ -1,6 +1,5 @@
 class Item:
     def __init__(self, qNum):
-        # 
         self.num = qNum
         self.next = None
 
